@@ -1,8 +1,8 @@
 ## Estudante de Sistemas de Informação na Universidade Federal de Sergipe, atualmente procurando um estágio em áreas relacionadas a tecnologia. No momento estou estudando HTML/CSS/JavaScript/NodeJS/React/Git.
 <div align="center">
   <a href="https://github.com/salguoD-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salguoD-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salguoD-1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salguoD-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salguoD-1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
