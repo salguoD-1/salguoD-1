@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=salguoD-1&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ## Estudante de Sistemas de Informação na Universidade Federal de Sergipe, atualmente procurando um estágio em áreas relacionadas a tecnologia. No momento estou estudando HTML/CSS/JavaScript/NodeJS/React/Git.
 <div align="center">
   <a href="https://github.com/salguoD-1">
