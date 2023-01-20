@@ -1,12 +1,40 @@
 [![](https://visitcount.itsvg.in/api?id=salguoD-1&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-## Estudante de Sistemas de Informação na Universidade Federal de Sergipe, atualmente procurando um estágio em áreas relacionadas a tecnologia. No momento estou estudando HTML/CSS/JavaScript/NodeJS/React/Git/Go.
+## Sobre mim:
+Desenvolvedor desde 2019.
+Cursando bacharelado em Sistemas de Informação pela Universidade Federal de Sergipe(UFS).
+Apaixonado por tecnologia, musica e jogos.
+
+
+Desenvolvi um projeto de gestão simplificada de alunos e disciplinas usando a linguagem C.
+Trabalhei na implementação de um sistema simplificado de gestão academica usando as linguagens HTML, CSS e JavaScript.
+Implementei um sistema de busca de ips públicos usando a linguagem Go.
+Atualmente estudando Java e todo o ecossistema da linguagem, focando no desenvolvimento back-end.
+
+Hard skills:
+- JavaScript
+- Node
+- HTML
+- CSS
+- Java
+- SQL
+- Linux
+- Inglês
+
+Soft skills:
+- Paciência
+- Resolução de Problemas
+- Boa Comunicação
+- Flexível
+- Automotivação
+- Proatividade
+- Trabalho em Equipe
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Reactt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">         
 </div>
   
