@@ -5,10 +5,10 @@ Cursando bacharelado em Sistemas de Informação pela Universidade Federal de Se
 Apaixonado por tecnologia, musica e jogos.
 
 
-Desenvolvi um projeto de gestão simplificada de alunos e disciplinas usando a linguagem C.
-Trabalhei na implementação de um sistema simplificado de gestão academica usando as linguagens HTML, CSS e JavaScript.
-Implementei um sistema de busca de ips públicos usando a linguagem Go.
-Atualmente estudando Java e todo o ecossistema da linguagem, focando no desenvolvimento back-end.
+1. Desenvolvi um projeto de gestão simplificada de alunos e disciplinas usando a linguagem C.
+2. Trabalhei na implementação de um sistema simplificado de gestão academica usando as linguagens HTML, CSS e JavaScript.
+3. Implementei um sistema de busca de ips públicos usando a linguagem Go.
+4. Atualmente estudando Java e todo o ecossistema da linguagem, focando no desenvolvimento back-end.
 
 Hard skills:
 - JavaScript
